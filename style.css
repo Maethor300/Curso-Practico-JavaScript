@@ -1,0 +1,10 @@
+.container 
+{
+    display: grid;
+}
+.first-title 
+{
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color:#66CDAA ;
+}
